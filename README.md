@@ -14,23 +14,34 @@ Here are some ideas to get you started:
 -->
 
 
-# ¡Hola! 👋 Soy [Braulio Flores]
+# ¡Welcome! 👋 My name is 
 
 ```
- _____ ___  _ ____  _____   ____  ____  _      _____ _____ _     _  _      _____
-/__ __\\  \///  __\/  __/  / ___\/  _ \/ \__/|/  __//__ __Y \ /|/ \/ \  /|/  __/
-  / \   \  / |  \/||  \    |    \| / \|| |\/|||  \    / \ | |_||| || |\ ||| |  _
-  | |   / /  |  __/|  /_   \___ || \_/|| |  |||  /_   | | | | ||| || | \||| |_//
-  \_/  /_/   \_/   \____\  \____/\____/\_/  \|\____\  \_/ \_/ \|\_/\_/  \|\____\
-                                                                                
+.-. .-')  _  .-')     ('-.                                                                                       _  .-')     ('-.    .-')    
+\  ( OO )( \( -O )   ( OO ).-.                                                                                  ( \( -O )  _(  OO)  ( OO ).  
+ ;-----.\ ,------.   / . --. / ,--. ,--.    ,--.      ,-.-')  .-'),-----.          ,------.,--.      .-'),-----. ,------. (,------.(_)---\_) 
+ | .-.  | |   /`. '  | \-.  \  |  | |  |    |  |.-')  |  |OO)( OO'  .-.  '      ('-| _.---'|  |.-') ( OO'  .-.  '|   /`. ' |  .---'/    _ |  
+ | '-' /_)|  /  | |.-'-'  |  | |  | | .-')  |  | OO ) |  |  \/   |  | |  |      (OO|(_\    |  | OO )/   |  | |  ||  /  | | |  |    \  :` `.  
+ | .-. `. |  |_.' | \| |_.'  | |  |_|( OO ) |  |`-' | |  |(_/\_) |  |\|  |      /  |  '--. |  |`-' |\_) |  |\|  ||  |_.' |(|  '--.  '..`''.) 
+ | |  \  ||  .  '.'  |  .-.  | |  | | `-' /(|  '---.',|  |_.'  \ |  | |  |      \_)|  .--'(|  '---.'  \ |  | |  ||  .  '.' |  .--' .-._)   \ 
+ | '--'  /|  |\  \   |  | |  |('  '-'(_.-'  |      |(_|  |      `'  '-'  '        \|  |_)  |      |    `'  '-'  '|  |\  \  |  `---.\       / 
+ `------' `--' '--'  `--' `--'  `-----'     `------'  `--'        `-----'          `--'    `------'      `-----' `--' '--' `------' `-----'                                                                                  
+```
+```
+.----. .----.   .--.  .-. .-..-.   .-. .----.    .----..-.    .----. .----. .----. .----.
+| {}  }| {}  } / {} \ | { } || |   | |/  {}  \   | {_  | |   /  {}  \| {}  }| {_  { {__  
+| {}  }| .-. \/  /\  \| {_} || `--.| |\      /   | |   | `--.\      /| .-. \| {__ .-._} }
+`----' `-' `-'`-'  `-'`-----'`----'`-' `----'    `-'   `----' `----' `-' `-'`----'`----' 
 ```
                                                                              
+💻 Software Engineer
 
-Soy desarrollador/a de software apasionado/a por la inteligencia artificial y el desarrollo web. Me encanta aprender nuevas tecnologías y contribuir a proyectos de código abierto.
+I’m a Software Engineer passionate about web development and modern technologies. I enjoy working with code, creating innovative solutions, and turning ideas into reality. I thrive on collaboration, learning from different perspectives, and building projects that make an impact.
+
 
 ## 🛠️ Habilidades
 
-- Lenguajes: Python, JavaScript, C++
+- Lenguajes: Python, JavaScript
 - Frameworks: React, Django, Flask
 - Herramientas: Git, Docker, Kubernetes
 
@@ -45,6 +56,7 @@ Soy desarrollador/a de software apasionado/a por la inteligencia artificial y el
 
 ## 📫 Conecta conmigo
 
-- [LinkedIn](enlace)
-- [Twitter](enlace)
-- [Correo Electrónico](mailto:tu-correo@dominio.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braulio-emmanuel-flores-l%C3%B3pez-74a25b200/)
+
+- [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:tu-email@dominio.com)
+
