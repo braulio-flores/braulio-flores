@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 
 # ¡Hola! 👋 Soy [Braulio Flores]
 
- ____  ____  ____  _     _     _  ____    _____ _     ____  ____  _____ ____ 
-/  __\/  __\/  _ \/ \ /\/ \   / \/  _ \  /    // \   /  _ \/  __\/  __// ___\
-| | //|  \/|| / \|| | ||| |   | || / \|  |  __\| |   | / \||  \/||  \  |    \
-| |_\\|    /| |-||| \_/|| |_/\| || \_/|  | |   | |_/\| \_/||    /|  /_ \___ |
-\____/\_/\_\\_/ \|\____/\____/\_/\____/  \_/   \____/\____/\_/\_\\____\\____/
+/__ \ /// / / / / _ / _/|/ // Y \ /|/ / \ /|/ /
+/ \ \ / | /|| \ | | / || |/||| \ / \ | |||| || |\ ||| | _
+| | / / | /| / _ || _/|| | ||| / | | | | ||| || | ||| |//
+_/ // _/ _\ _/_/_/ |_\ _/ _/ |_/_/ |_\
                                                                              
 
 Soy desarrollador/a de software apasionado/a por la inteligencia artificial y el desarrollo web. Me encanta aprender nuevas tecnologías y contribuir a proyectos de código abierto.
