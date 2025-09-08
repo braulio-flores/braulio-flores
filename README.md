@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# ¡Hola! 👋 Soy [Braulio Flores]
+
+Soy desarrollador/a de software apasionado/a por la inteligencia artificial y el desarrollo web. Me encanta aprender nuevas tecnologías y contribuir a proyectos de código abierto.
+
+## 🛠️ Habilidades
+
+- Lenguajes: Python, JavaScript, C++
+- Frameworks: React, Django, Flask
+- Herramientas: Git, Docker, Kubernetes
+
+## 🚀 Proyectos Destacados
+
+- [Proyecto 1](enlace): Descripción breve del proyecto.
+- [Proyecto 2](enlace): Descripción breve del proyecto.
+
+## 📊 Estadísticas
+
+![Estadísticas de GitHub](enlace-a-imagen)
+
+## 📫 Conecta conmigo
+
+- [LinkedIn](enlace)
+- [Twitter](enlace)
+- [Correo Electrónico](mailto:tu-correo@dominio.com)
