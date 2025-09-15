@@ -31,8 +31,8 @@ I’m a Software Engineer passionate about web development and modern technologi
 ## 🛠️ Habilidades
 
 - Lenguajes: Python, JavaScript
-- Frameworks: React, Django, Flask
-- Herramientas: Git, Docker, Kubernetes
+- Frameworks: React, Django, SpringBoot
+- Herramientas: Git, Docker
 
 ## 🚀 Proyectos Destacados
 
