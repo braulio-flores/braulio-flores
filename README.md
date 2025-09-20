@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 | {}  }| .-. \/  /\  \| {_} || `--.| |\      /   | |   | `--.\      /| .-. \| {__ .-._} }
 `----' `-' `-'`-'  `-'`-----'`----'`-' `----'    `-'   `----' `----' `-' `-'`----'`----' 
 ```
-                                                                             
+<img width="714" height="488" alt="code" src="https://github.com/user-attachments/assets/974ef9b0-20c0-40c8-8945-0f4ced5953cc" />
+                                                           
 💻 Software Engineer
 
 I’m a Software Engineer passionate about web development and modern technologies. I enjoy working with code, creating innovative solutions, and turning ideas into reality. I thrive on collaboration, learning from different perspectives, and building projects that make an impact.
