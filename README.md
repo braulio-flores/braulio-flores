@@ -17,16 +17,43 @@ Here are some ideas to get you started:
 # ¡Welcome! 👋 My name is 
 
 ```
-.----. .----.   .--.  .-. .-..-.   .-. .----.    .----..-.    .----. .----. .----. .----.
+.----. .----.   .--.  .-. .-..-.   .-. .----.    .----..-.    .----. .----. .----. .----.    
 | {}  }| {}  } / {} \ | { } || |   | |/  {}  \   | {_  | |   /  {}  \| {}  }| {_  { {__  
 | {}  }| .-. \/  /\  \| {_} || `--.| |\      /   | |   | `--.\      /| .-. \| {__ .-._} }
-`----' `-' `-'`-'  `-'`-----'`----'`-' `----'    `-'   `----' `----' `-' `-'`----'`----' 
+`----' `-' `-'`-'  `-'`-----'`----'`-' `----'    `-'   `----' `----' `-' `-'`----'`----'
+                         ______                     
+ _________        .---"""      """---.              
+:______.-':      :  .--------------.  :             
+| ______  |      | :                : |             
+|:______B:|      | |  Little Error: | |             
+|:______B:|      | |                | |             
+|:______B:|      | |  Power not     | |             
+|         |      | |  found.        | |             
+|:_____:  |      | |                | |             
+|    ==   |      | :                : |             
+|       O |      :  '--------------'  :             
+|       o |      :'---...______...---'              
+|       o |-._.-i___/'             \._              
+|'-.____o_|   '-.   '-...______...-'  `-._          
+:_________:      `.____________________   `-.___.-. 
+                 .'.eeeeeeeeeeeeeeeeee.'.      :___:
+               .'.eeeeeeeeeeeeeeeeeeeeee.'.         
+              :____________________________:
 ```
-<img width="714" height="488" alt="code" src="https://github.com/user-attachments/assets/974ef9b0-20c0-40c8-8945-0f4ced5953cc" />
-                                                           
-💻 Software Engineer
 
-I’m a Software Engineer passionate about web development and modern technologies. I enjoy working with code, creating innovative solutions, and turning ideas into reality. I thrive on collaboration, learning from different perspectives, and building projects that make an impact.
+<img width="1001" height="747" alt="code" src="https://github.com/user-attachments/assets/e3847ffe-81fc-4d68-b85f-1547704abe3e" />
+
+<br>
+<br>
+
+                                                           
+`💻 Software Engineer`
+
+Passionate Software Engineer focused on building scalable and high-performance web applications that make a real impact.
+
+Skilled in both frontend and backend development, I write clean, maintainable code and deliver solutions that solve real business problems.
+
+Curious, collaborative, and always learning — I love staying ahead in a fast-moving tech world.
 
 
 ## 🛠️ Habilidades
