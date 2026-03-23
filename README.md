@@ -1,86 +1,51 @@
- <div align="center">                                                          
-   
-  # Braulio Flores                                                              
-                                                                              
-  **Senior Full Stack Developer & Tech Lead**                                   
-                                                                              
-  Building high-scale financial systems at BBVA · Leading 10+ engineers · 5+    
-  years shipping production code
-                                                                                
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F4C81?style=flat-square&lo
-  go=linkedin&logoColor=white)](https://www.linkedin.com/in/LINKEDIN)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-1A1A2E?style=flat-square&
-  logo=googlechrome&logoColor=white)](https://SITEDEV.COM)                      
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gma
-  il&logoColor=white)](mailto:CORREO@outlook.com)                               
-                                                                              
-  </div>                                                                        
-                                                                              
-  ---
+<div align="center">
 
-  ```js
-  const braulio = {
-    role: "Senior Full Stack Developer & Tech Lead",
-    company: "BBVA",                                                            
-    stack: ["Java", "Spring Boot", "React", "Next.js", "Node.js", "TypeScript"],
-    databases: ["PostgreSQL", "MySQL", "Oracle"],                               
-    architecture: ["Microservices", "REST APIs", "CI/CD"],                    
-    languages: { spanish: "native", english: "professional" },                  
-  };                                                                          
-                                                                                
-  ---                                                                         
-  What I do
-           
-  - Architect microservices from zero to production in banking environments
-  - Lead engineering squads of 10+, define standards, gate-keep code reviews    
-  - Ship systems processing thousands of daily transactions                     
-  - Optimize — 30% faster page loads, 25% fewer data errors, fewer prod         
-  incidents                                                                     
-                                                                              
-  ---                                                                           
-  Experience                                                                  
+# Hey, I'm Braulio 👋
 
-  ┌─────────────┬──────────────────────────────┬────────────────────────────┐
-  │   Period    │             Role             │          Company           │
-  ├─────────────┼──────────────────────────────┼────────────────────────────┤
-  │ 2022 →      │ Senior Full Stack Developer  │ BBVA — Financial Services  │
-  │ Present     │ & Tech Lead                  │                            │
-  ├─────────────┼──────────────────────────────┼────────────────────────────┤   
-  │ 2021 → 2022 │ Full Stack Developer         │ SEGOB — Federal Government │
-  │             │                              │  of Mexico                 │   
-  ├─────────────┼──────────────────────────────┼────────────────────────────┤ 
-  │ 2020 → 2021 │ Frontend Developer           │ AntzTours — Tourism        │
-  │             │                              │ Startup                    │   
-  └─────────────┴──────────────────────────────┴────────────────────────────┘
-                                                                                
-  ---                                                                         
-  Tech
+**Senior Full Stack Developer & Tech Lead at [BBVA](https://www.bbva.com/)**
 
-  https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoCo
-  lor=white                                                                     
-  https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springb
-  oot&logoColor=white                                                           
-  https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescri
-  pt&logoColor=white                                                            
-  https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoCol
-  or=black                                                                      
-  https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&l
-  ogoColor=white                                                                
-  https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&l
-  ogoColor=white                                                                
-  https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgres
-  ql&logoColor=white                                                            
-  https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcs
-  s&logoColor=white                                                             
-  https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=w
-  hite                                                                          
-  https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactio
-  ns&logoColor=white                                                            
-                                                                              
-  ---
-                                                                                
-                                                                           
-  "Good programmers write code that humans can understand." — Martin Fowler     
-                                                                                
-  https://komarev.com/ghpvc/?username=braulio-flores&color=0F4C81&style=flat-squ
-  are&label=views                 
+I architect microservices that process thousands of banking transactions daily,<br/>
+lead a team of 10+ engineers, and care deeply about code that lasts.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/LINKEDIN)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=googlechrome&logoColor=white)](https://SITEDEV.COM)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:CORREO@outlook.com)
+
+</div>
+
+---
+
+```
+→ Java 17/21 · Spring Boot 3 · React · Next.js · TypeScript · Node.js
+→ PostgreSQL · Oracle · Tailwind · GitHub Actions · Jenkins
+```
+
+---
+
+**What I'm working on**
+
+- Microservices architecture at scale for Latin America's largest financial group
+- Improving frontend performance — recently cut page load times by 30%
+- Mentoring devs, running code reviews, and setting engineering standards
+
+**Previously** — built internal platforms at SEGOB (digitized workflows, reduced data entry ~40%) and shipped React + Spring Boot products at a tourism startup.
+
+---
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,nodejs,postgres,tailwind,git,github&perline=10" />
+</a>
+
+<br/><br/>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=braulio-flores&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&hide_title=true" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>Currently exploring system design, cloud architecture & open source. Open to senior/lead remote roles.</sub>
+</div>
