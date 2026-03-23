@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Braulio 👋
+# Hey, I'm Braulio
 
 **Senior Full Stack Developer & Tech Lead at [BBVA](https://www.bbva.com/)**
 
