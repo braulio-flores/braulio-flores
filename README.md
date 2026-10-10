@@ -89,7 +89,6 @@ const developer = {
 - Leading frontend & backend architecture at one of LatAm's largest banks
 - Building microservices with **Spring Boot** and **Node.js + Prisma**
 - Mentoring engineers and defining standards across the org
-- Working on **[Tickomium](https://github.com/GITHUB/tickomium)** — a full-stack POS system (Next.js + Express + PostgreSQL)
 
 <br/>
 
